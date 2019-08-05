@@ -1,4 +1,4 @@
-#Code Book
+# Code Book
 
 The original data set is 6 text files with data (3 on each test and training sets).
 This Code merges two data sets (test and training), selects only the measurements on the mean and standard deviation for each measurement and creates a tidy data set with the average of each
@@ -10,7 +10,7 @@ variable for each activity and each subject from the original sets of data.
 5. The last step - it calculates average values of every selected maesurement (for every Subject and every activity). 
 Resulting tidy data set is a 180x88 table, where each subject performs each (6) activities and all the means of selected measurements are calculated.
 
-##Data Dictionary:
+## Data Dictionary:
 
 1 SudjectID:
 	1-30 - Unique identifier assigned to each volunteer
