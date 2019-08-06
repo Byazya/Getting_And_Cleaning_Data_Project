@@ -7,7 +7,7 @@ variable for each activity and each subject from the original sets of data.
 2. Second, it reads and combines "test" and "training" data sets, creating a newDataSet.
 3. Next, it extracts only the measurements containing "mean" or "std" (standard deviation).
 4. Names properly all the variables.
-5. The last step - it calculates average values of every selected measurement (for every Subject and every activity). 
+5. The last step - it calculates average values of every selected measurement (for every Subject and every activity).  
 Resulting tidy data set is a 180x88 table, where each subject performs each (6) activities and all the means of selected measurements are calculated.
 
 ## Data Dictionary:
